@@ -1,0 +1,4 @@
+GET        /test/get-sales-by-period              controllers.ShopController.getSales
+GET        /test/get-sales-by-shop                controllers.ShopController.getSales
+GET        /test/get-sales-by-shop-product        controllers.ShopController.getSales
+GET        /test/get-sales-by-shop-price          controllers.ShopController.getSales
